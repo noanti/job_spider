@@ -23,18 +23,5 @@ def calc_name_url_weight(name, url):
 
     return weight
 
-
-def calc_title_weight(title):
-    weight = 0
-    if title is None:
-        return 0
-    if title.string is None:
-        return 0
-    for keyword, score in name_url_weight:
-        if title.string.find(keyword) != -1:
-            weight += score
-
-    return weight
-
 if __name__ == '__main__':
-    main()
+    pass

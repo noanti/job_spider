@@ -69,13 +69,11 @@ class JobSpider:
         while not self.request_queue.empty():
             if self.stop_flag: break
             prio, request = self.request_queue.get()
-            print(self.request_queue.qsize(), request.url)
             headers = {'User-Agent': choice(random_ua)}
             try:
                 resp = requests.get(request.url, headers=headers)
             except Exception as e:
                 continue
-            print('get a resp')
 
             encoding = chardet.detect(resp.content)['encoding']
             html_text = resp.content.decode(encoding) if encoding is not None else resp.text
