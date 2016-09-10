@@ -1,0 +1,230 @@
+{
+    "id": "6",
+    "name": "E达招车",
+    "job": "Fail to fetch this site:HTTPConnectionPool(host='yida365.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x04058AB0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed',))"
+},
+{
+    "id": "11",
+    "name": "股票雷达",
+    "job": "http://www.gu360.com/site/about"
+},
+{
+    "id": "5",
+    "name": "91外教网",
+    "job": "http://www.91waijiao.com/about/join"
+},
+{
+    "id": "4",
+    "name": "唱吧/ 最淘科技",
+    "job": "http://changba.com/now/joinus.php?ver=1.0.1"
+},
+{
+    "id": "8",
+    "name": "找钢网",
+    "job": "http://hr.zhaogang.com/joblist"
+},
+{
+    "id": "2",
+    "name": "蘑菇街(美丽联合集团)",
+    "job": "http://job.mogujie.com/social"
+},
+{
+    "id": "17",
+    "name": "兔子视频",
+    "job": "Fail to fetch this site:('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))"
+},
+{
+    "id": "7",
+    "name": "旺店通",
+    "job": "http://wangdian.cn/index.php/Wangdian/index/join.html"
+},
+{
+    "id": "10",
+    "name": "通天顺",
+    "job": "http://wpa.qq.com/msgrd?v=3&uin=591168568&site=www.tongtianshun.com&menu=no"
+},
+{
+    "id": "13",
+    "name": "识代运筹NowledgeData",
+    "job": "http://company.zhaopin.com/CC357790327.htm"
+},
+{
+    "id": "3",
+    "name": "蘑菇家",
+    "job": "http://job.mogujie.com/social"
+},
+{
+    "id": "16",
+    "name": "爱合住",
+    "job": "http://www.ihezhu.com/info/job"
+},
+{
+    "id": "15",
+    "name": "盒子支付",
+    "job": "http://www.iboxpay.com/joblist.html"
+},
+{
+    "id": "18",
+    "name": "融360",
+    "job": "http://www.rong360.com/about/joinus.html"
+},
+{
+    "id": "20",
+    "name": "IBBD数据雷达",
+    "job": "http://www.ibbd.net/about#recruit"
+},
+{
+    "id": "14",
+    "name": "钱方支付",
+    "job": "http://www.qfpay.com"
+},
+{
+    "id": "23",
+    "name": "车云网/ 启程未来科技",
+    "job": "Fail to fetch this site:HTTPError<503>"
+},
+{
+    "id": "21",
+    "name": "齐饮网Cheers IN",
+    "job": "http://www.qiyin.cn"
+},
+{
+    "id": "28",
+    "name": "米券网",
+    "job": "Fail to fetch this site:HTTPConnectionPool(host='www.miquan.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x06329A70>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))"
+},
+{
+    "id": "19",
+    "name": "环球人脉网",
+    "job": "http://job.hqrm.cn/Company/TeamVIP/340.html"
+},
+{
+    "id": "30",
+    "name": "上海江游/ 街机三国",
+    "job": "http://www.123u.com/html/recruit"
+},
+{
+    "id": "9",
+    "name": "五星汇",
+    "job": "Fail to fetch this site:HTTPConnectionPool(host='www.wuxinghui.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x04063DB0>: Failed to establish a new connection: [Errno 10060] [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))"
+},
+{
+    "id": "24",
+    "name": "达人工",
+    "job": "http://www.darengong.com"
+},
+{
+    "id": "26",
+    "name": "WiseMedia新数网络",
+    "job": "http://www.wisemedia.cn/index.php?r=site/joinus"
+},
+{
+    "id": "34",
+    "name": "海绵外语网",
+    "job": "https://my.qhee.com/u/5925"
+},
+{
+    "id": "36",
+    "name": "WiPlug推/ 若愚智能",
+    "job": "Fail to fetch this site:HTTPConnectionPool(host='wiplug.tv', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x063490D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))"
+},
+{
+    "id": "32",
+    "name": "旅家网",
+    "job": "http://www.365lvjia.com/system/system_forwardToCompany?choosePage=companyRecruitment"
+},
+{
+    "id": "35",
+    "name": "久久相悦/ 久久管家",
+    "job": "http://www.99merry.com"
+},
+{
+    "id": "25",
+    "name": "Facishare纷享科技",
+    "job": "http://www.facishare.com//fs80.cn/7001"
+},
+{
+    "id": "39",
+    "name": "口袋购物",
+    "job": "http://hr.koudai.com/join/joinus.html"
+},
+{
+    "id": "41",
+    "name": "蚂蚁短租",
+    "job": "http://www.mayi.com/landlord/recruit"
+},
+{
+    "id": "33",
+    "name": "店店通",
+    "job": "http://www.365ddt.com/"
+},
+{
+    "id": "22",
+    "name": "Bluefir/ 宫爆老奶奶",
+    "job": "http://www.bluefir.cn"
+},
+{
+    "id": "43",
+    "name": "91金融超市",
+    "job": "Fail to fetch this site:HTTPError<403>"
+},
+{
+    "id": "45",
+    "name": "贷乐发",
+    "job": "Fail to fetch this site:HTTPError<403>"
+},
+{
+    "id": "46",
+    "name": "易贷天下网",
+    "job": "Fail to fetch this site:HTTPConnectionPool(host='www.edai100.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x063497D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))"
+},
+{
+    "id": "47",
+    "name": "开8拼车/ 开吧",
+    "job": "Fail to fetch this site:HTTPConnectionPool(host='www.kai.ba', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x06337A50>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))"
+},
+{
+    "id": "48",
+    "name": "蛐蛐儿",
+    "job": "http://xququ-xququersdk.stor.sinaapp.com/Audio2DCodeSDK_iOS.zip"
+},
+{
+    "id": "44",
+    "name": "先智创科",
+    "job": "Fail to fetch this site:HTTPConnectionPool(host='www.foreseeuniverse.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x06353850>: Failed to establish a new connection: [Errno 10060] [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))"
+},
+{
+    "id": "50",
+    "name": "醋溜科技",
+    "job": "http://culiu.org/index.php/jrwm/"
+},
+{
+    "id": "37",
+    "name": "秒针系统",
+    "job": "http://e.cn.miaozhen.com/r.gif?k=1003831&p=3y7Tr0&rt=2&o=http://www.miaozhen.com/Newsandreports.html"
+},
+{
+    "id": "52",
+    "name": "凡趣科技Vanchu/ 闺蜜圈",
+    "job": "http://www.vanchu.com/school_wanted.html"
+},
+{
+    "id": "53",
+    "name": "大朴网",
+    "job": "http://www.dapu.com/index.php/article-guanyudapu_jiaruwomen-56.html"
+},
+{
+    "id": "54",
+    "name": "KK唱响/ 杭州米络科技",
+    "job": "http://www.kktv1.com"
+},
+{
+    "id": "31",
+    "name": "够快科技/ 够快网盘",
+    "job": "http://www.gokuai.com/feature/"
+},
+{
+    "id": "56",
+    "name": "HTTPError<404>",
+    "job": "Fail to fetch this site:Invalid URL '': No schema supplied. Perhaps you meant http://?"
+},
